@@ -117,7 +117,7 @@ int main(){
         kondisi =0;
     }
     
-    printf("Data   :");
+    printf("DATA   :");
     toStack(StackData,Data, PanjangData);
     PrintData(StackData,PanjangData);
 
